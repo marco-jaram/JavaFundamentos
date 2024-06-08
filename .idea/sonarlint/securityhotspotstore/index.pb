@@ -1,0 +1,21 @@
+
+T
+$src/B_03_operadoes/tablaOperadoes.md,4/5/45d5d81985425d49348a5e098a9bede179cb236a
+]
+-src/A_02_variables_y_tipos/varibalesyTipos.md,3/f/3f75410cc32d7eed2464896a9cf9f897fa888b81
+Y
+)src/C_04_condicionales/condicionalesIF.md,3/a/3a5403c135a00e5607447a92b133aed0eb2056e0
+_
+/src/C_04_condicionales/ejemploIF/EjemploIF.java,f/9/f9f057cc40ed3c5b95ec812bb77eb6c72152c525
+^
+.src/c04_condicionales/ejemploIF/EjemploIF.java,8/d/8d94fa42e55fe08c2e6abbc1452f44f6356d6589
+]
+-src/c04condicionales/ejemploIF/EjemploIF.java,7/f/7f409a711088b7d73bcf0a2e13fda31020063a60
+S
+#src/b03_operadoes/tablaOperadoes.md,c/4/c4dc8ad90a02d7e3c02bce8769315190fde5833f
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+d
+4src/capitulo04condicionales/ejemploIF/EjemploIF.java,6/d/6dee64b9591819815ac2c9345f9a55454a70b82f
+W
+'src/capitulo01_holamundo/HolaMundo.java,5/2/522f16a0a3be1a5a5843be708a1c9f8ca186590e
