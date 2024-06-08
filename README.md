@@ -104,7 +104,7 @@
 - Método length()
 - Método trim()
 
-
+>LUJÁN CASTILLO, José Dimas (2017). JAVA DESDE CERO - y prepárate para tu entrevista de trabajo. (1 ed. p. 4) Alfaomega, RC Libros.
 
 
 
