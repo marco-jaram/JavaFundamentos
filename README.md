@@ -1,3 +1,11 @@
+
+## Este es un compendio de aplicaciones 
+- Guía de estudios para prepararse para la primera entrevista como programador Java
+- Un capítulo por día (no es para aprender Java es para repasar lo principal de manera ordenada)
+- 14 dias para revisar todo lo fundamental
+
+---
+
 ## JAVA DESDE CERO y preparate para tu entrevista de trabajo
 ## ÍNDICE
 
