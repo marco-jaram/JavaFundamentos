@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸“Çñ8Àæªê‚2J$8e2464d5-a803-4545-99ce-5fb4f74049c6
+‚
+java:S1854":Remove this useless assignment to local variable "numero".(õ¾ñÐúÿÿÿÿ8Åæªê‚2J$dfad776f-ba52-4cde-8e0d-a5e0c05a88eb
+{
+java:S1854"8Remove this useless assignment to local variable "dato".(ãõú¾8Åæªê‚2J$1225007a-0f53-4152-9516-4342a14f3a39
+e
+java:S1659
+""Declare "dato" on a separate line.(Îººà8Ææªê‚2J$06288a06-5067-4858-bfa5-cf7e78359d94
+|
+java:S1117
+"9Rename "numero" which hides the field declared at line 4.(Îººà8Ææªê‚2J$a5df785e-8af0-4f2b-bb90-b76132c8f966
+…
+java:S1854"=Remove this useless assignment to local variable "resultado".(à™Î“ýÿÿÿÿ8Ææªê‚2J$e0549ba4-3735-4f6b-87a0-55a647f99bbd
+v
+java:S1481".Remove this unused "resultado" local variable.(à™Î“ýÿÿÿÿ8Èæªê‚2J$4d00a5fd-8bdf-4e66-b985-236a9880bb46

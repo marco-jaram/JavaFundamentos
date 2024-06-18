@@ -38,3 +38,7 @@ c
 3src/capitulo08_OOP/persona/herencia/Carpintero.java,d/1/d182357dba28d978036bdcc451a2ef9e2fb9079a
 ]
 -src/capitulo08_OOP/persona/herencia/Main.java,b/e/beb3050763d35e28f39f105d59b8a5d0fc82cce8
+W
+'src/capitulo09_ambitos/AmbitoClase.java,4/c/4cab508f5879d0b757dcfd6fc0bec3c5053ebc56
+X
+(src/capitulo09_ambitos/AmbitoMetodo.java,b/7/b73c92436136753ae290cef3b6797256872da3ea
