@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯à÷¤ıÿÿÿÿ8¾¯øÉ2J$2bec5a4b-12a9-4e6e-86cc-91480febd8b6
+“
+java:S1104"PMake vida a static final constant or non-public and provide accessors if needed.(ÆÁŞÙ8¾¯øÉ2J$8c642a6a-3810-4631-8451-0a259f82cf15
+•
+java:S1450"RRemove the "sed" field and declare it as a local variable in the relevant methods.(©•ã€8Â¯øÉ2J$67450627-c154-4d6a-8dde-24577cfa044c
+r	java:S106,"+Replace this use of System.out by a logger.(ÅÉ££üÿÿÿÿ8Ê¯øÉ2J$c7a704ef-a8a7-472e-b368-b7f15f5fcabb
+m	java:S106-"+Replace this use of System.out by a logger.(ÜüÂ8Ë¯øÉ2J$9829f8b2-a6d7-4ded-9412-f17f082896f1
+j
+java:S1068"'Remove this unused "sed" private field.(©•ã€8Ì¯øÉ2J$a1f5beb9-3e29-4c50-b231-276433ca59ce

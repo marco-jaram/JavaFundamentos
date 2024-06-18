@@ -1,9 +1,9 @@
 
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÒûÿÿÿÿ8„àµÎÿ1J$ffb9b8f9-4c20-4749-a25b-8e3e23b0af1a
 z
 java:S2629,"7Use the built-in formatting to construct this argument.(šåóƒ8‚àµÎÿ1J$5d064bbf-1c5c-4788-bbf4-354e5d734ee0
 z
 java:S2629."7Use the built-in formatting to construct this argument.(ÙÃËä8ƒàµÎÿ1J$f30ed50e-f832-4228-9a24-841decb04609
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÒûÿÿÿÿ8„àµÎÿ1J$ffb9b8f9-4c20-4749-a25b-8e3e23b0af1a
 r	java:S106"+Replace this use of System.out by a logger.(÷îöìúÿÿÿÿ8“àµÎÿ1J$952cbff8-30b1-4c48-a132-929279275eee
 r	java:S106"+Replace this use of System.out by a logger.(ôìÑ¨úÿÿÿÿ8“àµÎÿ1J$834d6aaf-ba3b-4092-ae66-f4f8f0f5db91
 m	java:S106"+Replace this use of System.out by a logger.(²”Áã8”àµÎÿ1J$7a20b3a8-6d3c-4ec7-8358-b0e76c96052a

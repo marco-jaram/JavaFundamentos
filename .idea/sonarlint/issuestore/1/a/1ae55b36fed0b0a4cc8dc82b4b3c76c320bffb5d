@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ææ‘úÿÿÿÿ8é€‘¦2J$e3c1da37-2a8a-4acc-8949-cf23438cf75e
+›
+java:S1192"XDefine a constant instead of duplicating this literal "-----------------------" 3 times.(ò¤µæ8ì€‘¦2J$8e4fcd57-1f32-422d-86ca-ad4dd53e3eb4
+r	java:S106
+"+Replace this use of System.out by a logger.(ú­õ’ùÿÿÿÿ8ñ€‘¦2J$887b04fd-b5d3-4f6a-bfe4-4fc1e47e1bd4
+m	java:S106"+Replace this use of System.out by a logger.(ò¤µæ8ñ€‘¦2J$50680e42-bdd0-4929-af37-20567e2333e6
+m	java:S106"+Replace this use of System.out by a logger.(´Áé²8ò€‘¦2J$fce71c05-ebc1-4e89-872e-18d85803b489
+m	java:S106"+Replace this use of System.out by a logger.(ò¤µæ8ò€‘¦2J$469944c1-38ca-420c-8087-8a872dbda47a
+m	java:S106"+Replace this use of System.out by a logger.(’üÓÈ8ò€‘¦2J$79f542a7-e57b-4fad-89e7-76b9d7e7aef9
+m	java:S106 "+Replace this use of System.out by a logger.(ò¤µæ8ó€‘¦2J$5f23a24a-ae9b-4202-b6c1-de59d5e73320
