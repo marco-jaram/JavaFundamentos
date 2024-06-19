@@ -60,3 +60,5 @@ e
 5src/capitulo10_clases_interface/interfac/Mascota.java,b/0/b0b559bf15edd1ef45fc62e71cd3601800073d94
 g
 7src/capitulo10_clases_interface/interfac/docInterfaz.md,7/8/78f71398de805ee4a37a5722f3316a607a94e82c
+O
+src/capitulo11_pojo/MyPojo.java,c/d/cd7b82e235cf6f20c50b17a86bba6dd6ac6cd3ef
