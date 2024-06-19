@@ -1,4 +1,4 @@
-package capitulo08_OOP.persona.herencia;
+package capitulo08_OOP;
 
 public class Main {
     public static void main(String[] args) {
