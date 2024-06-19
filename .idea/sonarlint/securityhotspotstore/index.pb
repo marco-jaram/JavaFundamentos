@@ -40,8 +40,6 @@ O
 src/capitulo08_OOP/Persona.java,2/9/290153309ff75ddaafde6fa253efb4cdd174d5ee
 L
 src/capitulo08_OOP/Main.java,7/8/78c5231ebb37e8034e4a98c7c54657f3ffb1fe50
-\
-,src/capitulo10_clases_interface/Persona.java,1/8/18cf31c1e8ef41d58c250d2f10fe7367b79a6815
 k
 ;src/capitulo10_clases_interface/claseAbstracta/Persona.java,8/8/88095110cc03dc8a18d5567118d8dc5b38063daa
 l
