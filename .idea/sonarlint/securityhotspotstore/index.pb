@@ -62,3 +62,11 @@ g
 7src/capitulo10_clases_interface/interfac/docInterfaz.md,7/8/78f71398de805ee4a37a5722f3316a607a94e82c
 O
 src/capitulo11_pojo/MyPojo.java,c/d/cd7b82e235cf6f20c50b17a86bba6dd6ac6cd3ef
+b
+2src/capitulo12_arreglos/ArregloUnidimensional.java,b/7/b7d5f914e4cf346cdce6cc6d29cf11b2a165f9a2
+a
+1src/capitulo12_arreglos/ArregloBidimensional.java,3/e/3ed09032a08507bc86ddf93921800eba9548ed3c
+^
+.src/capitulo12_arreglos/ArregloConForEach.java,b/a/ba78b1ad41639d45c12be1956800554de2820853
+Z
+*src/capitulo12_arreglos/ArregloIndice.java,5/7/574a7e85c9a8ed900f2a4a67b5bb7b5c49836c63

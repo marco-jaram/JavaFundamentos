@@ -1,16 +1,16 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸“Çñ8Àæªê‚2J$e63f963e-30cd-481b-a254-a70024c08844
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸“Çñ8Àæªê‚2J$a01a16f1-b915-498d-b2e4-bc8e87200dba
 ‚
-java:S1854":Remove this useless assignment to local variable "numero".(õ¾ñÐúÿÿÿÿ8Åæªê‚2J$022ec190-0810-4f1e-b4c3-5a07f702ba05
+java:S1854":Remove this useless assignment to local variable "numero".(õ¾ñÐúÿÿÿÿ8Åæªê‚2J$b4fdab21-35c0-4512-a06d-2dda4449d279
 {
-java:S1854"8Remove this useless assignment to local variable "dato".(ãõú¾8Åæªê‚2J$3055ceaf-5001-4061-bc39-7154c0879b3a
+java:S1854"8Remove this useless assignment to local variable "dato".(ãõú¾8Åæªê‚2J$7e036fe9-7897-4caf-a2b5-2a59d0c11189
 e
 java:S1659
-""Declare "dato" on a separate line.(Îººà8Ææªê‚2J$65032f2e-6be0-4adc-a768-f85b64d56fd5
+""Declare "dato" on a separate line.(Îººà8Ææªê‚2J$73e5443b-b447-48c7-9c96-d41b7f12f885
 |
 java:S1117
-"9Rename "numero" which hides the field declared at line 4.(Îººà8Ææªê‚2J$5fbc43c4-eabd-4e2b-a816-990d26c53274
-…
-java:S1854"=Remove this useless assignment to local variable "resultado".(à™Î“ýÿÿÿÿ8Ææªê‚2J$9d92df2a-b4cd-40bf-bf97-88c0ada2f534
-v
-java:S1481".Remove this unused "resultado" local variable.(à™Î“ýÿÿÿÿ8Èæªê‚2J$60567d7c-9f89-4ae2-a8df-baf77541496a
+"9Rename "numero" which hides the field declared at line 4.(Îººà8Ææªê‚2J$f923ef15-9a3e-4530-804f-2f479b9eccd7
+F
+java:S1481
+")Remove this unused "dato" local variable.(Îººà8óË’›ƒ2
+]	java:S125"<This block of commented-out lines of code should be removed.( ®©Úüÿÿÿÿ8ôË’›ƒ2

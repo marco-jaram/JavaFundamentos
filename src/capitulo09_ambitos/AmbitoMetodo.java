@@ -13,7 +13,7 @@ public class AmbitoMetodo {
         numero = numero + 2;
     }
     public void multiplicar(){
-        int resultado = dato*dato;
+//        int resultado = dato*dato;
 //        Error porque dato sta fuera del metodo
     }
 }
