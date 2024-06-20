@@ -8,13 +8,14 @@ public class ArregloIndice {
         for (String letras : vocales) {
             System.out.println(letras);
         }
+
         System.out.println("-- Recorriendo el largo de mis vocales --");
         System.out.println(vocales.length);
+
         System.out.println("--Obteniendo el subindice 4 --");
         System.out.println(vocales[4] + ": es el subindicede las vocales");
 
         System.out.println("-- Recorriendo con un for mis vocales indice y letra --");
-
         for (int i = 0; i < vocales.length; i++) {
             System.out.println("El subindice es " + i + " y la vocal es " + vocales[i]);
         }
