@@ -70,3 +70,15 @@ a
 .src/capitulo12_arreglos/ArregloConForEach.java,b/a/ba78b1ad41639d45c12be1956800554de2820853
 Z
 *src/capitulo12_arreglos/ArregloIndice.java,5/7/574a7e85c9a8ed900f2a4a67b5bb7b5c49836c63
+Z
+*src/capitulo13_excepciones/MiTryCatch.java,3/3/33a7ee6f55f10aeae67cc1184e34d9e7bf271303
+W
+'src/capitulo13_excepciones/MyThrow.java,3/1/3144f3e61f0defc5a3e8392f4ffd0aac9ad6bf4e
+Y
+)src/capitulo13_excepciones/MyFinally.java,0/9/09974e70596f58ca485762a6eb328db4d105589f
+K
+src/capitulo14_cadenas.java,8/2/821b5946793f3fce243763e098a5e6d64bd1ba55
+W
+'src/capitulo14_cadenas/MyStringUno.java,1/d/1d19a2f4179e8a3477bff42ad90f6ce579f23014
+W
+'src/capitulo14_cadenas/MyStringDos.java,3/e/3ee7d3b124e75a6443af450799e61ee80ff58e8e

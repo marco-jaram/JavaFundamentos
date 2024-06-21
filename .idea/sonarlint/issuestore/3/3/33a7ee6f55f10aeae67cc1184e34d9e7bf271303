@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹“³äúÿÿÿÿ8³ª·´ƒ2J$86ae6fc4-1f48-4d31-bfb4-dd9d3236b5c3
+‹
+java:S3518"CMake sure this expression can't be zero before doing this division.(İÒ£ˆûÿÿÿÿ8·ª·´ƒ2J$ccb3483e-d21f-4f98-841c-021b18f26905
+}
+java:S1854"5Remove this useless assignment to local variable "r".(İÒ£ˆûÿÿÿÿ8¸ª·´ƒ2J$a72cae90-5903-417b-a5be-6492304ce584
+}
+java:S1854"5Remove this useless assignment to local variable "q".(­û«Îıÿÿÿÿ8¸ª·´ƒ2J$67c763cb-e08d-4171-8f9f-5299e92d8c57
+n
+java:S1481"&Remove this unused "r" local variable.(¢î®÷ûÿÿÿÿ8ºª·´ƒ2J$69fbc4e4-cb56-4694-8ae6-8ae2c3675048
+m	java:S106"+Replace this use of System.out by a logger.(½Ö®õ8¼ª·´ƒ2J$546c82fa-26c0-4e09-940d-2ca017bd106e
+i
+java:S1481"&Remove this unused "q" local variable.(í¾û¿8½ª·´ƒ2J$92c1e6e0-0466-4b57-87c3-d0d248470b33
+r	java:S106"+Replace this use of System.out by a logger.(´ÛÌşÿÿÿÿ8½ª·´ƒ2J$27176df3-2e45-4b8f-a80e-39bf7c38b818
