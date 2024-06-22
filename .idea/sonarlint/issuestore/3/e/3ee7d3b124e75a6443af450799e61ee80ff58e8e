@@ -1,4 +1,19 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ¸•ÖJ$a5ee23a0-b7c9-4cac-9eec-72b5c2f9f06c
-^
-java:S2094"BRemove this empty class, write its code or make it an "interface".(›ô¢c8šÛâƒ2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ¸•Ö8œ†‚Œ„2J$082b1bda-ef58-419f-9eec-8f78c13bad32
+w
+java:S1854"5Remove this useless assignment to local variable "f".(™íğ[8 †‚Œ„2J$ad1438a4-e636-4467-80b6-d467f51edfd6
+r	java:S106"+Replace this use of System.out by a logger.(íü¯íúÿÿÿÿ8 †‚Œ„2J$322a547e-14d5-44a9-afcd-050a8faec4bf
+h
+java:S1481"&Remove this unused "f" local variable.(™íğ[8¡†‚Œ„2J$161943ef-c247-4e27-ac0e-776c0e763268
+m	java:S106	"+Replace this use of System.out by a logger.(¶•ºĞ8¡†‚Œ„2J$6c291e77-f78b-40b6-9862-379f2b0eb08b
+r	java:S106"+Replace this use of System.out by a logger.(´À×ºÿÿÿÿÿ8¡†‚Œ„2J$fdb71392-e9e4-4d09-ab69-3936b11eef4f
+m	java:S106"+Replace this use of System.out by a logger.(ú„‡œ8¢†‚Œ„2J$3edbfd6f-b020-48f2-be1b-35b9451c47bd
+r	java:S106"+Replace this use of System.out by a logger.(‚ÕƒÆûÿÿÿÿ8¢†‚Œ„2J$ccb8a12d-c521-46f3-a6ea-8ac1e970532f
+r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8£†‚Œ„2J$f9a1ffb5-c4e6-40a6-8c5e-0765dce359e6
+r	java:S106"+Replace this use of System.out by a logger.(ÀÚ…„úÿÿÿÿ8£†‚Œ„2J$c7ade172-f51e-4e02-b493-39be501f9205
+r	java:S106"+Replace this use of System.out by a logger.(ùªø«şÿÿÿÿ8£†‚Œ„2J$7d07f040-000f-441c-90a7-45d921e9f597
+m	java:S106""+Replace this use of System.out by a logger.(¡Ğİê8£†‚Œ„2J$d34f41c6-357a-47cb-94fc-696759b2963e
+h
+java:S2129#" Remove this "String" constructor(¬ãÓêÿÿÿÿÿ8¨†‚Œ„2J$2f1b3be0-9780-4383-ae02-39662c8a05be
+r	java:S106%"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8«†‚Œ„2J$e17e0435-6b02-4787-8015-c52c6b3b9581
+m	java:S106'"+Replace this use of System.out by a logger.(Ìéàè8«†‚Œ„2J$ea9af06d-bb24-4b30-9d8d-4fc6965a4e01

@@ -76,8 +76,6 @@ W
 'src/capitulo13_excepciones/MyThrow.java,3/1/3144f3e61f0defc5a3e8392f4ffd0aac9ad6bf4e
 Y
 )src/capitulo13_excepciones/MyFinally.java,0/9/09974e70596f58ca485762a6eb328db4d105589f
-K
-src/capitulo14_cadenas.java,8/2/821b5946793f3fce243763e098a5e6d64bd1ba55
 W
 'src/capitulo14_cadenas/MyStringUno.java,1/d/1d19a2f4179e8a3477bff42ad90f6ce579f23014
 W

@@ -11,6 +11,9 @@ public class MyStringUno {
         System.out.println(cadena);
 
 
+        System.out.println(cadena.length());
+
+
         System.out.println("-----compare-------");
         String cadena1 = "marc";
         String x = "marco jaramillo";
@@ -40,9 +43,9 @@ public class MyStringUno {
 
 
         System.out.println("------Upper anda Low------");
-        String cadena4="marco jaramillo";
+        String cadena4 = "marco jaramillo";
         System.out.println(cadena4.toUpperCase());
-        String cadena5="MARCO JARAMILLO";
+        String cadena5 = "MARCO JARAMILLO";
         System.out.println(cadena5.toLowerCase());
 
 
